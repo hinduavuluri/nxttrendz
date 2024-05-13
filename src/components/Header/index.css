@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.website-logo {
+  height: 90px;
+  width: 230px;
+}
+.nav-item {
+  font-family: roboto;
+  font-size: 25px;
+  color: #1e293b;
+  font-weight: 300px;
+}
+.button {
+  background-color:;
+  font-family: roboto;
+  font-size: 30px;
+  color: #ffffff;
+  height: 70px;
+  width: 16px;
+  padding: 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
